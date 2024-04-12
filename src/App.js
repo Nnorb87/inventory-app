@@ -1,6 +1,6 @@
 import "./App.css";
 import SearchBar from "./SearchBar.js";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import AddItem from "./AddItem";
 import ItemsDisplay from "./ItemsDisplay";
 
