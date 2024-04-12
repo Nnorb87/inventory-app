@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "name": "Rose",
+      "price": "5.99",
+      "type": "Flower",
+      "brand": "Natural",
+      "id": 1
+    },
+    {
+      "name": "Lilly",
+      "price": "4.99",
+      "type": "Flower",
+      "brand": "Unique",
+      "id": 2
+    },
+    {
+      "name": "Neverforget",
+      "price": "8.99",
+      "type": "Flower",
+      "brand": "Natural",
+      "id": 3
+    }
+  ]
+}
